@@ -9,5 +9,4 @@ This is really just a reader's digest version of Harry Robert's http://cssguidel
 - No IDs used for CSS
 - Specifity kept as low as possible
 - Use the least number of selectors to style
-- use `!important` proactively, not reactively
-- 
+- - use `!important` proactively, not reactively
